@@ -13,10 +13,10 @@ Python: The programming language used to develop the game.<br>
 Pygame: The library used for creating games in Python.
 
 ## Controls
-Up Arrow: Move up<br>
-Down Arrow: Move down<br>
-Left Arrow: Move left<br>
-Right Arrow: Move right
+W Key: Move up<br>
+S Key: Move down<br>
+A Key: Move left<br>
+D Key: Move right
 
 ## Contributors
 Pedro Henrique Z. Costa
